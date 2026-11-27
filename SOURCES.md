@@ -18,7 +18,7 @@ not as stories.
    across India; 166 killed in 2008; 77th Constitution Day (26 November
    1949). (Press Information Bureau; PTI)
 
-## Illustrated stories 4–16
+## Illustrated stories 4–13
 4. **Two tankers burn after hitting mines in Strait of Hormuz** —
    Iran's Revolutionary Guard claim; third tanker hit by a projectile
    50 nm west of Dubai (UKMTO). Labelled CLAIM. (IRGC; UKMTO)
@@ -48,6 +48,8 @@ not as stories.
     judges recommend dropping a Netanyahu bribery case. (AP; medics)
 13. **Kim calls for more tactical nuclear arms** — Kim Jong Un tours
     nuclear sites; KCNA. (KCNA; Yonhap)
+
+## Stories 14–48 (the "And also" list)
 14. **Shenzhou-24: first Pakistani in orbit** — Muhammad Zeeshan Ali
     boards Tiangong, first foreign astronaut aboard China's station;
     ESA's Hera finds a stadium-sized crater on Dimorphos. (Xinhua; ESA)
@@ -56,8 +58,6 @@ not as stories.
 16. **Australia capex jumps 12.2% on AI centres** — Q3 business
     investment, most since 2011; equipment spending at a record on data
     centres. (Australian Bureau of Statistics; Reuters)
-
-## Stories 17–48 (the "And also" list)
 17. Ukraine recovers 250 fallen soldiers in swap (ICRC).
 18. Ukraine says it hit five Russian jets at Savasleyka base — 3 MiG-31,
     2 Su-34 (Kyiv).
