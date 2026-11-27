@@ -93,6 +93,14 @@ not as stories.
 47. US Army destroys lead-explosives stockpile in Iowa (US Army).
 48. Brasília: Lula condemns US aircraft tariff plan (Reuters).
 
+## KPI strip (v2) — every number from a verified story above
+- **14** economies in the US tariff plan — story 9 (USTR).
+- **€45bn** EU loan for Ukraine — story 5 (Council of the EU).
+- **12,021** Ebola cases in DR Congo — story 15 (DRC health officials).
+- **3.25%** Bank of Korea's new rate — story 10 (Bank of Korea).
+- **31** killed in the Cairo tanker fire — story 7 (AP; Egypt health ministry).
+- **60–65 mph** nor'easter gusts grounding Macy's parade — hero story 1 (NWS).
+
 ## Date check — deliberately NOT included as 26 November stories
 - Trump–Xi–Putin trilateral in Shenzhen — 19 Nov 2026.
 - Copa América 2028 to the USA — announced 24 Nov 2026.

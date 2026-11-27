@@ -11,19 +11,22 @@ HTML/CSS/SVG in `entry.html` and rendered to a 1024×1024 PNG in this session.
 The front page carries **48 dated, verified stories across 10 regions**: a hero
 row on Macy's 100th Thanksgiving parade being postponed by a nor'easter, Saudi
 defences downing two Houthi missiles over Riyadh, and India marking 18 years
-since the 26/11 Mumbai attacks (plus 77 years of its Constitution); 13 more
-illustrated stories (tankers burning in Hormuz, the EU budget and Ukraine
-loan summit, Gukesh–Sindarov Game 3, the Cairo tanker fire, the Kyiv mall
-strike, US tariffs on 14 economies, the Bank of Korea's rate rise, US growth
-revised to 4.3%, the Gaza strikes, Kim's nuclear call, Shenzhou-24 and the
-Hera asteroid images, the Congo Ebola outbreak, Australia's AI-driven capex
-jump); a world map with pins 1–16; a UTC timeline; "how sure" labels
-(OFFICIAL / CONFIRMED / REPORTED / CLAIM) on every illustrated story; a date
-check that leaves out other days' news (the 19 Nov Shenzhen trilateral, the
-24 Nov Copa América announcement, the 25 Nov Ras Tanura claim and Google
-lawsuit); and 32 more stories in the "And also" list. Every figure was
-checked against reporting published on 26 November 2026 — see `SOURCES.md`.
-The PNG is optimised to a 256-colour palette, 115,584 bytes.
+since the 26/11 Mumbai attacks (plus 77 years of its Constitution), each with a
+"WHY IT MATTERS" line; 13 more illustrated stories (tankers burning in Hormuz,
+the EU budget and Ukraine loan summit, Gukesh–Sindarov Game 3, the Cairo tanker
+fire, the Kyiv mall strike, US tariffs on 14 economies, the Bank of Korea's rate
+rise, US growth revised to 4.3%, the Gaza strikes, Kim's nuclear call,
+Shenzhou-24 and the Hera asteroid images, the Congo Ebola outbreak, Australia's
+AI-driven capex jump), all numbered 1–16; a KPI strip of the day's six big
+numbers (14 economies, €45bn, 12,021 cases, 3.25%, 31 killed, 60–65 mph); a
+world map with pins 1–16 colour-matched to the numbered stories by region; a
+prominent THE DAY IN UTC strip; a readable HOW SURE legend (OFFICIAL /
+CONFIRMED / REPORTED / CLAIM) on every illustrated story; a date check that
+leaves out other days' news (the 19 Nov Shenzhen trilateral, the 24 Nov Copa
+América announcement, the 25 Nov Ras Tanura claim and Google lawsuit); and 32
+more stories in the numbered "And also" list, each with a region-colour dot.
+Every figure was checked against reporting published on 26 November 2026 —
+see `SOURCES.md`. The PNG is optimised to a 256-colour palette, 117,166 bytes.
 
 `main.ts` (Node 22, standard library only, no network) writes the image to
 `$MAKEFUN_OUTPUT_DIR/entry.png` (default `/output`). The PNG bytes are
